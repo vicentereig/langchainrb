@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     langchainrb (0.19.2)
-      baran (~> 0.1.9)
+      baran (~> 0.2.1)
       json-schema (~> 4)
       matrix
       pragmatic_segmenter (~> 0.3.0)
@@ -62,7 +62,7 @@ GEM
       jmespath (~> 1, >= 1.6.1)
     aws-sigv4 (1.10.0)
       aws-eventstream (~> 1, >= 1.0.2)
-    baran (0.1.12)
+    baran (0.2.1)
     base64 (0.2.0)
     benchmark (0.4.0)
     bigdecimal (3.1.8)
